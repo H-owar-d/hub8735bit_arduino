@@ -21,7 +21,7 @@
           "checksum": "SHA-256:0b74d1cd0c82da4d78967338fd95b26f2aa6416ef698ffa8072e2e37079a084a",
           "size": "72686812",
           "boards": [
-            {"name": "hub8735:bit (RTL8735B)"},
+            {"name": "hub8735:bit (RTL8735B)"}
           ],
           "toolsDependencies": [
             {
