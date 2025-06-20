@@ -18,8 +18,8 @@
           },
           "url": "https://github.com/H-owar-d/hub8735bit_arduino/raw/main/Arduino_package/release/4.0.15-hub8735bit.tar.gz",
           "archiveFileName": "4.0.15-hub8735bit.tar.gz",
-          "checksum": "SHA-256:0b74d1cd0c82da4d78967338fd95b26f2aa6416ef698ffa8072e2e37079a084a",
-          "size": "72686812",
+          "checksum": "SHA-256:6f8c674ee26b63058209d991504ab5785fa302b04cc602356656776971261df7",
+          "size": "72588271",
           "boards": [
             {"name": "hub8735:bit (RTL8735B)"}
           ],
