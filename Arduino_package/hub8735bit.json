@@ -1,8 +1,8 @@
 {
   "packages": [
     {
-      "name": "HUB8735-BIT",
-      "maintainer": "HUB8735-BIT",
+      "name": "hub8735bit",
+      "maintainer": "hub8735bit",
       "help": {
         "online": "https://forum.amebaiot.com/"
       },
