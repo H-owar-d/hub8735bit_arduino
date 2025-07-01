@@ -48,3 +48,5 @@
 ## 3. License:
 
 > The overall project is licensed under the MIT License. See the [LICENSE](https://github.com/ideashatch/HUB-8735/blob/main/amebapro2_arduino/LICENSE.txt) file for details.
+
+This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
