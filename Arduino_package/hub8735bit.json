@@ -11,6 +11,44 @@
       	{
           "name": "HUB8735 BIT Boards (32-bit Arm v8M @500MHz)",
           "architecture": "AmebaPro2",
+          "version": "4.0.16-Release",
+          "category": "Contributed",
+          "help": {
+            "online": "https://forum.amebaiot.com/"
+          },
+          "url": "https://github.com/H-owar-d/hub8735bit_arduino/raw/main/Arduino_package/release/4.0.16-hub8735bit.tar.gz",
+          "archiveFileName": "4.0.16-hub8735bit.tar.gz",
+          "checksum": "SHA-256:5f3a874089c5f818106996de85f14e3850b4ca6d1b30545ab8013ca8ba8c132b",
+          "size": "72589271",
+          "boards": [
+            {"name": "hub8735:bit (RTL8735B)"}
+          ],
+          "toolsDependencies": [
+            {
+              "packager": "hub8735bit",
+              "name": "ameba_pro2_toolchain",
+              "version": "1.0.1-p1"
+            },
+            {
+              "packager": "hub8735bit",
+              "name": "ameba_pro2_toolchain2",
+              "version": "1.0.1-p2"
+            },
+            {
+              "packager": "hub8735bit",
+              "name": "ameba_pro2_tools",
+              "version": "1.4.1"
+            },
+            {
+              "packager": "hub8735bit",
+              "name": "ameba_pro2_nn_models",
+              "version": "1.0.2"
+            }
+          ]
+        },
+      	{
+          "name": "HUB8735 BIT Boards (32-bit Arm v8M @500MHz)",
+          "architecture": "AmebaPro2",
           "version": "4.0.15-Release",
           "category": "Contributed",
           "help": {
